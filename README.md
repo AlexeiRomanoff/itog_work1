@@ -22,4 +22,4 @@
 
 БЛОК-СХЕМА:<br>
 <center>
-![algoritm](http://turvseti.ru/diagram.png)
+![algoritm](/diagram.png)
