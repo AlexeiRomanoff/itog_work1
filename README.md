@@ -22,4 +22,4 @@
 
 БЛОК-СХЕМА:<br>
 <center>
-![algoritm](/diagram.png)
+![algoritm](diagram.png)
